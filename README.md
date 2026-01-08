@@ -1,2 +1,2 @@
 # first_project
-My first project
+Тестовый репозиторий для работы с GitHub
